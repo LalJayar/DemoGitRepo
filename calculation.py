@@ -4,6 +4,8 @@ b=15
 
 c=50
 
+d=100
+
 print(a+b)
 
-print(a+b+c)
+print(a+b+c+d)
